@@ -1,39 +1,63 @@
+<div align="center">
+
 # Cybersecurity Handbook
 
-> A comprehensive handbook for learning cybersecurity from first principles.
+### Learn • Understand • Practice • Document
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook;Learn+Cybersecurity+From+First+Principles;Linux+%7C+Networking+%7C+Web+Security;Built+Chapter+by+Chapter" />
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![Markdown](https://img.shields.io/badge/Documentation-Markdown-black?style=for-the-badge)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Handbook-darkgreen?style=for-the-badge)
+
+</div>
 
 ---
 
-## Project Status
+# About
 
-> **Status:** Under Active Development
+This repository is a long-term cybersecurity handbook created to explain concepts from first principles.
 
-This handbook is currently being built chapter by chapter with a focus on practical understanding rather than memorization.
+Instead of memorizing commands, this handbook focuses on understanding how technologies actually work.
 
-The goal is to create a complete reference for beginners, students, and aspiring penetration testers.
+The objective is to build a beginner-friendly yet in-depth reference covering computer fundamentals, operating systems, networking, web security, cryptography, Windows, Active Directory, cloud security, offensive security, scripting, and security tools.
 
 ---
 
-## Handbook Philosophy
+# Project Status
 
-This handbook focuses on understanding concepts from the ground up instead of simply remembering commands.
+> **Under Active Development**
 
-Each chapter is designed to answer the following questions:
+This handbook is currently being written chapter by chapter.
+
+New topics will be added continuously as the project grows.
+
+---
+
+# Learning Philosophy
+
+Every chapter is designed to answer:
 
 - What is it?
 - Why do we need it?
 - Where is it used?
-- When should it be used?
+- When should we use it?
 - Who uses it?
 - How does it work?
 
-In addition, every major topic will include:
+Each major concept will also include:
 
 - Internal Working
 - Architecture
 - Components
 - Practical Examples
-- Real-World Use Cases
+- Real World Use Cases
 - Commands & Syntax
 - Common Mistakes
 - Best Practices
@@ -44,7 +68,7 @@ In addition, every major topic will include:
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 00-Computer-Fundamentals
@@ -67,14 +91,57 @@ assets
 
 ---
 
-## Coming Soon
+# Learning Roadmap
 
-Documentation is currently under development.
-
-New chapters will be added continuously as the handbook grows.
+```
+Computer Fundamentals
+        ↓
+Linux
+        ↓
+Networking
+        ↓
+Web Security
+        ↓
+Programming
+        ↓
+Cryptography
+        ↓
+Windows
+        ↓
+Active Directory
+        ↓
+Cloud
+        ↓
+Offensive Security
+        ↓
+Security Tools
+```
 
 ---
 
-## Goal
+# Coming Soon
 
-Build a free, structured, and beginner-friendly cybersecurity handbook that explains concepts in a simple, practical, and in-depth way.
+- Computer Fundamentals
+- Linux
+- Networking
+- Web Security
+- Programming
+- Cryptography
+- Windows
+- Active Directory
+- Cloud
+- Offensive Security
+- Security Tools
+- Scripting
+- Cheat Sheets
+- Learning Resources
+
+---
+
+# Goal
+
+Create a structured, practical, and beginner-friendly cybersecurity handbook that explains concepts in depth through diagrams, examples, commands, and real-world scenarios.
+
+---
+
+> Learn deeply. Think critically. Practice consistently.
