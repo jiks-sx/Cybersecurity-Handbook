@@ -10,8 +10,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)
 
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
 ![Markdown](https://img.shields.io/badge/Documentation-Markdown-black?style=for-the-badge)
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Handbook-darkgreen?style=for-the-badge)
