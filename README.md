@@ -1,108 +1,145 @@
 <div align="center">
 
-# Hi 👋, I'm Jitu Sah
+# Cybersecurity Handbook
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Building+Expertise+in+Offensive+Security;Exploring+AI+Security+%26+Cloud+Security;Hands-on+Labs+%7C+Projects+%7C+Documentation;Always+Learning.+Always+Building." />
+### Learn • Understand • Practice • Document
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook;Learn+Cybersecurity+From+First+Principles;Linux+%7C+Networking+%7C+Web+Security;Built+Chapter+by+Chapter" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=blue)
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)
 
-![](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Documentation-Markdown-black?style=for-the-badge)
 
-![](https://img.shields.io/badge/AI-Security-8A2BE2?style=for-the-badge)
-
-![](https://img.shields.io/badge/Cloud-Security-0A66C2?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Handbook-darkgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About
 
-I'm a cybersecurity learner passionate about understanding technology from first principles and applying that knowledge through hands-on practice.
+This repository is a long-term cybersecurity handbook created to explain concepts from first principles.
 
-My current focus is building strong foundations in **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
+Instead of memorizing commands, this handbook focuses on understanding how technologies actually work.
 
-Every repository on this GitHub represents something I have explored, practiced, documented, or built as part of my learning journey.
-
----
-
-# 🎯 Current Focus
-
-- 🔴 Offensive Security
-- 🤖 AI Security
-- ☁️ Cloud Security
-- 🐧 Linux
-- 🌐 Networking
-- 🌍 Web Security
-- 🏢 Active Directory
-- 🎯 Capture The Flag (CTFs)
-- 🛠️ Security Projects
-- 📚 Cybersecurity Handbook
+The objective is to build a beginner-friendly yet in-depth reference covering computer fundamentals, operating systems, networking, web security, cryptography, Windows, Active Directory, cloud security, offensive security, scripting, and security tools.
 
 ---
 
-# 📌 Featured Projects
+# Project Status
 
-### 📖 Cybersecurity Handbook
+> **Under Active Development**
 
-A long-term handbook explaining cybersecurity concepts from first principles through practical examples, diagrams, and structured documentation.
+This handbook is currently being written chapter by chapter.
 
-### 🚀 100-Day Pentesting Challenge
-
-A public learning journey documenting hands-on labs, practical exercises, and daily progress in penetration testing.
+New topics will be added continuously as the project grows.
 
 ---
 
-# 💡 Learning Philosophy
+# Learning Philosophy
 
-> **Understand before memorizing.**  
-> **Practice before claiming.**  
-> **Document before moving on.**
+Every chapter is designed to answer:
 
-I don't measure progress by the number of rooms or labs I complete.
+- What is it?
+- Why do we need it?
+- Where is it used?
+- When should we use it?
+- Who uses it?
+- How does it work?
 
-I measure it by how deeply I understand a concept and whether I can explain, document, and apply it in practical scenarios.
+Each major concept will also include:
+
+- Internal Working
+- Architecture
+- Components
+- Practical Examples
+- Real World Use Cases
+- Commands & Syntax
+- Common Mistakes
+- Best Practices
+- Security Considerations
+- Interview Questions
+- Summary
+- References
 
 ---
 
-# 🧰 Technologies & Areas of Interest
+# Repository Structure
 
-<p>
+```text
+00-Computer-Fundamentals
+01-Linux
+02-Networking
+03-Web-Security
+04-Programming
+05-Cryptography
+06-Windows
+07-Active-Directory
+08-Cloud
+09-Offensive-Security
+10-Tools
+11-Scripting
+12-Defense-Basics
+13-CheatSheets
+14-Resources
+assets
+```
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode"/>
+---
 
-</p>
+# Learning Roadmap
 
-**Currently Learning**
+```
+Computer Fundamentals
+        ↓
+Linux
+        ↓
+Networking
+        ↓
+Web Security
+        ↓
+Programming
+        ↓
+Cryptography
+        ↓
+Windows
+        ↓
+Active Directory
+        ↓
+Cloud
+        ↓
+Offensive Security
+        ↓
+Security Tools
+```
 
+---
+
+# Coming Soon
+
+- Computer Fundamentals
 - Linux
 - Networking
 - Web Security
-- Python
+- Programming
+- Cryptography
+- Windows
 - Active Directory
-- Cloud Fundamentals
-- Offensive Security Methodology
+- Cloud
+- Offensive Security
+- Security Tools
+- Scripting
+- Cheat Sheets
+- Learning Resources
 
 ---
 
-# 📈 GitHub Goals
+# Goal
 
-- Build practical cybersecurity projects
-- Document every major concept I learn
-- Share structured learning resources
-- Contribute to open-source projects
-- Continuously improve through hands-on practice
+Create a structured, practical, and beginner-friendly cybersecurity handbook that explains concepts in depth through diagrams, examples, commands, and real-world scenarios.
 
 ---
 
-<div align="center">
-
-### "Show your work, not your hype."
-
-</div>
+> Learn deeply. Think critically. Practice consistently.
